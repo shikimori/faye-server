@@ -8,6 +8,6 @@
     "eslint": "^4.19.1"
   },
   "dependencies": {
-    "faye": "^1.2.4"
+    "faye": "^1.4.0"
   }
 }
